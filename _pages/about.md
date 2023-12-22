@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had. - F. Scott Fitzgerald
-subtitle: >-
-  Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had. - F. Scott Fitzgerald
+# subtitle: 
 
 # profile:
 #   align: right
@@ -20,6 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+`Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had. - F. Scott Fitzgerald`
 
 I'm currently an undergraduate student in Yao Class 03, [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), graduating in 2024. My major is Computer Science and Technology under the AI curriculum.
 
