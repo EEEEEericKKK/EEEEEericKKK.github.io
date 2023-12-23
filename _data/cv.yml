@@ -18,7 +18,7 @@
       year: 2020-present
       description:
         - Yao Class, IIIS, Tsinghua University
-        - GPA: 3.86/4.0
+        - GPA 3.86/4.0
     - title: Visiting Student
       institution: Massachusetts Institute of Technology
       year: 2022.1-2022.8
@@ -49,3 +49,9 @@
   contents:
     - name: English
       value: TOEFL 111(Reading 30, Listening 29, Speaking 23, Writing 29), GRE 327(Verbal 157, Quantitative 170)
+    - name: Skills
+      value: Python, C++, LaTeX, PyTorch
+    - name: Community Service
+      value: Volunteer of Question Answering Agency of Tsinghua University, Manager of IIIS Table Tennis Club (2021-2022).
+    - name: Programming
+      value: I'm a member of the team Black Moonrise in Tsinghua participating in ICPC series. We have won 4 gold medals and qualified for the World Finals in 2022(delayed due to COVID and/or war).
