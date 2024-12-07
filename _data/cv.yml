@@ -13,9 +13,14 @@
 - title: Education
   type: time_table
   contents:
+    - title: Doctoral, Ph.D. in Computer Science
+      institution: University of Massachusetts Amherst
+      year: 2024-present
+      description:
+        - Advised by Prof. Chuang Gan
     - title: Undergraduate, Bachelor of Engineering in Computer Science
       institution: Tsinghua University
-      year: 2020-present
+      year: 2020-2024
       description:
         - Yao Class, IIIS, Tsinghua University
         - GPA 3.86/4.0
