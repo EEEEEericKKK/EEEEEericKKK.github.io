@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 > Whenever you feel like criticizing any one, just remember that all the people in this world haven’t had the advantages that you’ve had. - F. Scott Fitzgerald
 
-I am currently a PhD in Computer Science at University of Massachusetts Amherst, advised by Prof. Chuang Gan.
+I am currently a PhD student in Computer Science at University of Massachusetts Amherst, advised by Prof. Chuang Gan.
 
 Before that I was an undergraduate student in Yao Class 03, [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), graduating in 2024. My major was Computer Science and Technology under the AI curriculum.
 
